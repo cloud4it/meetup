@@ -1,2 +1,2 @@
-# Grupa meetupowa
-Cloud4it Group
+# Grupa meetupowa Cloud4it Group
+
