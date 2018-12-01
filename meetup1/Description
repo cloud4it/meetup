@@ -1,6 +1,29 @@
-#Resources from the first meetup that took place on 21/06/2018
+#Resources from the meetup that took place on 21/06/2018
 
-Agenda
-Krzysztof Szwedo - Sprawy organizacyjne. Po co nam kolejny meetup? Plany przyszłych spotkań/konferencji oraz ich tematyka
+Poniżej szczegółowe informacje na temat agendy (Oj będzie się działo!).
+
+Agenda spotkania:
+
+18:00 - 18:15
+Krzysztof Szwedo - Sprawy organizacyjne. Po co nam kolejny meetup? Plany przyszłych spotkań/konferencji oraz ich tematyka.
+
+18:15 - 19:00
 Paweł Zubkiewicz - Introduction to Infrastructure as a Code (IaaC) with AWS and Terraform
+W czasie prezentacji omówione zostaną podstawowe funkcje narzędzia Terraform na przykładzie prostej architektury sieciowej w AWS. Wykorzystamy Terraform oraz takie usługi jak VPC, EC2, ELB, S3 oraz Route53, aby zbudować infrastrukturę pod naszą aplikację webową.
+Jeśli nie znasz chmury AWS lub ww. usług nie przejmuj się – prezentacja ma charakter wprowadzenia, podstawowe zagadnienia zostaną wyjaśnione.
+Bio: Paweł od 12 lat zawodowo zajmuję się wytwarzaniem oprogramowania. Ma doświadczenie w rolach programisty, analityka oraz architekta. Od dwóch lat z głową w chmurze AWS. Posiada certyfikat AWS Certified Solutions Architect Professional. Pasjonat serverless.
+
+19:15 - 20:00
 Michał Jankowski - Serverless – czy jesteś gotowy na rewolucję?
+Czy zastanawialiście się jaki wpływ na wytwarzanie oprogramowania może przynieść ten trend? W trakcie naszego spotkania poznacie czym charakteryzuje się to podejście. Zastanowimy się w jaki sposób zmieni on nasze podejście od wytwarzania oprogramowania oraz poznamy podstawowe komponenty serverless dostępne na platformie Microsoft Azure.
+Bio: Michał - architekt, programista, projektant, lider zespołu, a w wolnym czasie trener. Przygodę z programowaniem zaczął ponad dwadzieścia lat temu od Basic’a i Assemblera dla komputerów 8-bitowych. Od ponad dziesięciu lat uczestniczy w tworzeniu oprogramowania na platformę .NET dla największych światowych firm. W tym czasie brał udział w wytwarzaniu aplikacji desktopowych, mobilnych oraz webowych pełniąc różne role. Obecnie związany z tworzeniem aplikacji webowych.
+Prywatnie miłośnik podróży oraz fotografii. W wolnym czasie prowadzi bloga www.jankowskimichal.pl, twórca rozwiązań open source oraz aplikacji mobilnych.
+
+20:00 - 20:45
+Networking
+Catering: pizza i napoje (w tym piwko!)
+
+Sponsorzy:
+Wyższa Szkoła Handlowa we Wrocławiu www.handlowa.eu (catering)
+Edu4it (sala)
+Inferto (grafika)
