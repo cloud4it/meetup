@@ -1,2 +1,31 @@
-#Resources from the first meetup that took place on 11/09/2018
+Poniżej szczegółowe informacje na temat agendy (I znowu będzie się działo!).
 
+Agenda spotkania:
+18:00 - 18:10
+Krzysztof Szwedo, Piotr Rogala - Wprowadzenie
+
+18:15 - 19:15
+Tomasz Stachlewski (AWS Polska)
+Serverless & Sztuczna Inteligencja – czyli jak szybko budować nowoczesne aplikacje w oparciu o chmurę obliczeniowa
+
+Podczas tej sesji przekonamy się czy niecała godzina wystarczy, aby utworzyć od zera niebanalną chmurową aplikację. Aplikacje, która będzie w pełni skalowalna, będzie wysokiej dostępności, będzie składała się z niezależnych mikrousług, nierelacyjnej bazy danych, będzie wykorzystała takie elementy Sztucznej Inteligencji jak konwersja tekstu na mowę, analiza obrazów i z którą na końcu będziemy w stanie porozumieć się za pomocą głosu. A wszystko to z pomocą usług Serverless!
+
+Bio: Tomasz, starszy architekt systemów chmurowych w Amazon Web Services. Na co dzień doradza klientom w tworzeniu architektur systemów, które mają zostać zmigrowane lub utworzone w chmurze AWS i w pełni wykorzystywać możliwości jakie niesie ze sobą chmura. Doradza wielu wiodącym firmom (począwszy od startupów po korporacje) z różnych branż tj. IT, telekomunikacja, finanse i inne. Prowadzi szkolenia dla polskich i zagranicznych partnerów podczas których przekazuje w jaki sposób firmy powinny korzystać z chmury, jak powinna wyglądać ich droga z tradycyjnej infrastruktury do infrastruktury chmurowej, aby zmaksymalizować korzyści z tego płynące.
+
+19:20 - 20:30
+Michał Furmankiewicz (Chmurowisko)
+Bezpieczeństwo w chmurze! Wszyscy o tym mówią, mało komu się chcę zgłębić temat
+
+W czasie sesji zobaczymy nie tylko to, jak Azure jest zbudowany na niskim poziomie by separować klientów od siebie, ale również zobaczymy jakich usług użyć i dlaczego, by zabezpieczyć dostarczane w chmurze rozwiązania. Sesja poglądowa z lotu ptaka, po której zobaczysz, czym dysponujesz w Azure.
+
+Bio: Michał od 4 lat jedyne co robi, to zabawy w chmurę. Na co dzień rozwija firmę Chmurowisko (http://chmurowisko.pl/), dba o architekturę rozwiązań i pokazuje klientom pełen świat możliwości. Lubi nowe technologie i stara się je wykorzystać w realnym biznesie. Chmurę postrzega jako narzędzie, które może pomóc w transformacji firmy. W wolnym czasie występuje na konferencjach, meetupach lub pisze na blogu http://architektwchmurze.pl. Kiedy czasu jest naprawdę dużo, zakłada słuchawki i pisze kod. Tylko dla siebie i dla zabawy.
+
+20:30 - 21:00
+Networking
+Catering: pizza i napoje (w tym piwko!)
+
+Sponsorzy:
+Wyższa Szkoła Handlowa we Wrocławiu www.handlowa.eu (catering)
+Softserve www.softserveinc.com (catering)
+Cloud4it Group www.cloud4it.pl / (sala)
+Inferto www.inferto.pl (grafika)
